@@ -206,10 +206,11 @@ int main()
     }
     return 0;
 }
-
+```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/38ce3166-4673-41de-b37a-8dbfad6f1420)
+![Screenshot 2025-04-27 151615](https://github.com/user-attachments/assets/2dd622da-c9e3-4943-8ab0-67e0b0fc4d86)
+
 
 
 
